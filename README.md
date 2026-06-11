@@ -1,72 +1,38 @@
-<h1 align="center">Hi 👋, I'm Manikandaprabu A</h1>
+# Hi, I'm Manikandaprabu Arumugam 👋
 
-<h3 align="center">
-Senior Full Stack Developer | Web, Mobile & Cloud Solutions
-</h3>
+**Senior Full Stack Developer** with 7+ years of experience building 
+scalable web and mobile applications across fintech, CRM, and enterprise domains.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manikandaprabuA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## Tech Stack
 
----
+**Backend:** Laravel · PHP · Node.js · REST API · Microservices  
+**Frontend:** React · TypeScript · JavaScript · HTML · CSS  
+**Mobile:** Flutter (Cross-platform)  
+**DevOps & Cloud:** AWS Lightsail · Nginx · CI/CD · Linux Server Admin  
+**Database:** MySQL · PostgreSQL · Redis  
+**Integrations:** Stripe · Razorpay · PhonePe · Paytm · Firebase · GTM · SEO  
+**Tools:** Git · Docker · Postman · VS Code  
 
-### 🚀 About Me
+## What I Do
 
-I am a Senior Full Stack Developer with 7+ years of experience in building scalable web applications, ecommerce platforms, mobile apps, admin panels, booking systems, and cloud-based solutions.
+- Architect and deliver full-stack web & mobile applications end-to-end
+- Design and integrate REST APIs with third-party payment gateways
+- Configure and manage AWS Lightsail servers, Nginx, DNS, CDN, and SSL
+- Build CI/CD pipelines and handle production deployments
+- Implement Firebase push notifications, SEO optimization, and GTM setup
+- Develop custom Laravel Middleware for authentication and security
 
-- 💻 Full Stack Development: Laravel, React, Node.js, PHP, WordPress
-- 📱 Mobile App Development: Flutter
-- ☁️ Cloud & Deployment: AWS, Nginx, Linux, PM2
-- 🛒 Ecommerce & Business Websites
-- 🧩 Custom CRM, Booking Systems & Admin Panels
-- 🌐 Founder of Kailvex Technologies
-- 📍 Tamil Nadu, India
+## Recent Work
 
----
+| Project | Tech Stack | Description |
+|---|---|---|
+| Marvinet | Laravel, React | B2B Trading Platform |
+| Easykat Finance | Laravel, Flutter | Fintech App with Payment Gateways |
+| CMA App | Flutter, WordPress, Firebase | Cross-platform Mobile App |
+| CRM (SGMCL) | Laravel | CRM with Stock & Attendance Management |
 
-### 🧰 Tech Stack
+## Connect With Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,nodejs,js,ts,flutter,dart,wordpress,mysql,postgres,aws,nginx,linux,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikandaprabuA&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandaprabuA&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandaprabuA&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikandaprabu-blue?logo=linkedin)](https://in.linkedin.com/in/manikandaprabu-mca)
 
 ---
-
-### 🏆 What I Build
-
-- Ecommerce Websites
-- Business Websites
-- WordPress Plugins
-- Laravel Applications
-- React Dashboards
-- Flutter Mobile Apps
-- CRM Applications
-- Booking Systems
-- Payment Gateway Integrations
-- Cloud Server Deployment
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://in.linkedin.com/in/manikandaprabu-mca" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Manikandaprabu%20A-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
